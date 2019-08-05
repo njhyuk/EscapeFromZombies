@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: c631183d4f3644407b6ec3c21a3a9145
+timeCreated: 1528521304
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: all_j
+    100002: arm_left
+    100004: arm_left_j_b
+    100006: arm_left_j_t
+    100008: arm_right
+    100010: arm_right_j_b
+    100012: arm_right_j_t
+    100014: body
+    100016: face
+    100018: hair2
+    100020: hair3
+    100022: hair4
+    100024: head
+    100026: head_j
+    100028: joint11
+    100030: joint7
+    100032: joint9
+    100034: left_eye
+    100036: leg_left
+    100038: leg_left_j
+    100040: leg_right
+    100042: leg_right_j
+    100044: pSphere3
+    100046: right_eye
+    100048: teeth1
+    100050: teeth2
+    100052: teeth3
+    100054: teeth4
+    100056: teeth5
+    100058: //RootNode
+    400000: all_j
+    400002: arm_left
+    400004: arm_left_j_b
+    400006: arm_left_j_t
+    400008: arm_right
+    400010: arm_right_j_b
+    400012: arm_right_j_t
+    400014: body
+    400016: face
+    400018: hair2
+    400020: hair3
+    400022: hair4
+    400024: head
+    400026: head_j
+    400028: joint11
+    400030: joint7
+    400032: joint9
+    400034: left_eye
+    400036: leg_left
+    400038: leg_left_j
+    400040: leg_right
+    400042: leg_right_j
+    400044: pSphere3
+    400046: right_eye
+    400048: teeth1
+    400050: teeth2
+    400052: teeth3
+    400054: teeth4
+    400056: teeth5
+    400058: //RootNode
+    2100000: skin
+    2100002: eye_inner
+    2100004: eye_outer
+    2100006: pasted__blinn3
+    2100008: pasted__eye_inner1
+    2100010: pasted__eye_outer1
+    2100012: pasted__pasted__blinn11
+    2100014: pasted__lambert4
+    2100016: skin_inner
+    2100018: teeth
+    2100020: hair
+    2100022: eye_head
+    2100024: clothes
+    2300000: arm_left
+    2300002: arm_right
+    2300004: body
+    2300006: face
+    2300008: hair2
+    2300010: hair3
+    2300012: hair4
+    2300014: left_eye
+    2300016: leg_left
+    2300018: leg_right
+    2300020: pSphere3
+    2300022: right_eye
+    2300024: teeth1
+    2300026: teeth2
+    2300028: teeth3
+    2300030: teeth4
+    2300032: teeth5
+    3300000: arm_left
+    3300002: arm_right
+    3300004: body
+    3300006: face
+    3300008: hair2
+    3300010: hair3
+    3300012: hair4
+    3300014: left_eye
+    3300016: leg_left
+    3300018: leg_right
+    3300020: pSphere3
+    3300022: right_eye
+    3300024: teeth1
+    3300026: teeth2
+    3300028: teeth3
+    3300030: teeth4
+    3300032: teeth5
+    4300000: arm_left
+    4300002: arm_right
+    4300004: left_eye
+    4300006: right_eye
+    4300008: face
+    4300010: teeth5
+    4300012: teeth4
+    4300014: teeth3
+    4300016: teeth1
+    4300018: teeth2
+    4300020: hair2
+    4300022: hair3
+    4300024: hair4
+    4300026: pSphere3
+    4300028: leg_left
+    4300030: leg_right
+    4300032: body
+    7400000: death
+    7400002: Idle
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
